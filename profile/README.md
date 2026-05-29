@@ -25,7 +25,7 @@ Maximizing administrative data processing is achieved through the native batch r
 Advanced subsystem expandability is achieved via complete compatibility with legacy infrastructure extensions, including the specialized double commander wfx system plugin architecture. Integrating custom double commander plugins allows the core platform to parse proprietary archiving layouts using the double commander wcx framework smoothly. The application handles rich metadata extraction processes securely through the double commander wdx layer while displaying structural content via the double commander wlx visual architecture. The resulting double commander manager framework provides an optimized, command-driven workspace for technical personnel.
 
 <div align="center">
-  <img src="https://habrastorage.org/getpro/habr/upload_files/db2/f45/684/db2f456840b5c9bc47c0f3a2b34d9180.png" alt="Program Interface Screenshot"/>
+  <img src="https://doublecmd.github.io/doc/ru/images/screenshot.png" alt="Program Interface Screenshot"/>
 </div>
 
 <div align="center">
